@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin/>
+<pubdate>20170410</pubdate>
+<title>Voting Precincts (2016); votingPrecincts16</title>
+<geoform>vector digital data</geoform>
+<pubinfo>
+<pubplace/>
+<publish>Rhode Island Department of State</publish>
+</pubinfo>
+<othercit>Suggested bibliographic reference: RIGIS, 2018. Voting Precincts (2016); votingPrecincts16. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 16 January 2018).</othercit>
+<onlink>http://www.rigis.org</onlink>
+<onlink>http://data.rigis.org/bnd/votingPrecincts16</onlink>
+<lworkcit>
+<citeinfo>
+<pubdate>19930101</pubdate>
+<title>Rhode Island Geographic Information System (RIGIS) Data Distribution System</title>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Polygons representing the voting precincts determined by Rhode Island municipalities for the 2016 election cycle.  Voting precincts are drawn at the local level by the respective City/Town. They follow the guidelines set forth in RIGL 17-11-1.</abstract>
+<purpose>Voting precincts determined by Rhode Island municipalities for the 2016 election cycle.</purpose>
+<supplinf>Voting precincts are drawn at the local level by the respective City/Town. They follow the guidelines set forth in RIGL 17-11-1 (below): The local board of canvassers in any city or town may, on or before the sixtieth (60th) day preceding any election, divide or redivide the city or town, or any representative district in the city or town, into voting districts. The local board of each city or town shall determine voting districts by geographical boundaries and by no other means. No voting district shall at any time comprise parts of two (2) or more wards. It shall be the duty of the board to divide the city or town, representative district, or ward, so that substantially not more than three thousand (3000) total eligible registered voters shall be served by the same polling place; provided, however, that any divisions conducted by the local board pursuant to this section shall not result in creating a polling place serving less than five hundred (500) total eligible registered voters, except when a polling place is located in a low-income or elderly residential development, or when it is caused by legislative district boundaries; and provided, further, that no existing polling place which is presently located in a low-income or elderly residential development shall be eliminated. Upon the establishment and approval of any polling place by the state board, changes to the polling place shall not be allowed until the next redistricting by the general assembly, unless the polling place becomes unavailable to the city or town, or no longer meets polling place minimum requirements as established by the state board, then the city or town may take the appropriate action to replace the polling place. A polling place may be located either within or without the voting district for which it is established; provided, that a polling place may be located outside the district only upon unanimous determination of the local board and subject to the approval of the state board that a suitable place is not available within the voting district.</supplinf>
+</descript>
+<timeperd>
+<timeinfo>
+<sngdate>
+<caldate>20161108</caldate>
+</sngdate>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-180</westbc>
+<eastbc>180</eastbc>
+<northbc>90</northbc>
+<southbc>-90</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>boundaries</themekey>
+</theme>
+<theme>
+<themekt>None</themekt>
+<themekey>precincts</themekey>
+<themekey>elections</themekey>
+<themekey>districts</themekey>
+<themekey>voting</themekey>
+<themekey>voter</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>This dataset is provided as is.’ The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset. Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products. Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Rhode Island Department of State, Elections Division</cntorg>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>148 West River St</address>
+<city>Providence</city>
+<state>RI</state>
+<postal>02904</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>401-222-2340</cntvoice>
+<cntemail>elections@sos.ri.gov</cntemail>
+</cntinfo>
+</ptcontac>
+<datacred>Rhode Island Local Boards of Canvassers, Election Data Services</datacred>
+<native>Version 6.2 (Build 9200) ; Esri ArcGIS 10.5.1.7333</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>None</attraccr>
+</attracc>
+<logic>None</logic>
+<complete>None</complete>
+<posacc>
+<horizpa>
+<horizpar>None</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<pubdate>20160601</pubdate>
+<title>Municipal Boundaries (1997); muni97d</title>
+</citeinfo>
+</srccite>
+<typesrc>None</typesrc>
+<srctime>
+<timeinfo>
+<sngdate>
+<caldate>20010101</caldate>
+</sngdate>
+</timeinfo>
+<srccurr>Unknown</srccurr>
+</srctime>
+<srccitea>Municipal Boundaries (1997); muni97d</srccitea>
+<srccontr>Rhode Island municipal boundary locations</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>Dataset created by Election Data Services in partnership with the Rhode Island General Assembly, under contract to the Rhode Island Department of State.</procdesc>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Election Data Services, Inc.</cntorg>
+<cntper>Kimball Brace</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing</addrtype>
+<address>6171 Emerywood Ct</address>
+<city>Manassas</city>
+<state>VA</state>
+<postal>20112</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>(703) 580-7267</cntvoice>
+<cntfax>(703) 580-6258</cntfax>
+<cntemail>kbrace@electiondataservices.com</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Dataset contributed to RIGIS by the RI Department of State. No metadata or documentation accompanied the dataset.</procdesc>
+<procdate>20170410</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Erica Tefft</cntper>
+</cntorgp>
+<cntpos>Research Associate</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+<country>US</country>
+</cntaddr>
+<cntemail>erica@edc.uri.edu</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>Original dataset projected from the Geographic NAD83(CORS 96)(EPSG WKID 4269) decimal degrees coordinate system to Rhode Island State Plane NAD83(CORS96) US Survey Feet (EPSG WKID 3438) using Esri ArcGIS Desktop 10.5.1. Rhode Island municipal boundaries downloaded from RIGIS (http://www.rigis.org). Dissolved the municipal boundaries dataset based upon the LAND field, resulting in a shapefile representing the RI state boundary. Clipped the voting precinct dataset using this state boundary. Metadata produced with assistance from the RI Department of State.</procdesc>
+<procdate>20180207</procdate>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Greg Bonynge</cntper>
+</cntorgp>
+<cntpos>Geospatial Extension Specialist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>401-874-2180</cntvoice>
+<cntfax>401-874-4561</cntfax>
+<cntemail>greg@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>GT-polygon composed of chains</sdtstype>
+<ptvctcnt>419</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>votingPrecincts16</enttypl>
+</enttyp>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>NAME</attrlabl>
+<attrdef>Precinct numbers. The first two digits of the precinct number is the municipal code, assigned alphabetically. For example, Barrington is the first municipality alphabetically so its number code is 01. Woonsocket is the last alphabetically so its number code is 39. The attribute domain values section defines each of these municipal codes. The last two digits of the precinct number are the voting district in each municipality. For example, the voting precinct where NAME=2005 represents the fifth voting district in the Town of Narragansett.</attrdef>
+<attrdefs>Rhode Island Department of State</attrdefs>
+<attrdomv>
+					<edom>
+						<edomv>35</edomv>
+						<edomvd>Warwick</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>26</edomv>
+						<edomvd>Pawtucket</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>15</edomv>
+						<edomvd>Jamestown</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>02</edomv>
+						<edomvd>Bristol</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>08</edomv>
+						<edomvd>Cumberland</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>13</edomv>
+						<edomvd>Glocester</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>24</edomv>
+						<edomvd>North Providence</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>05</edomv>
+						<edomvd>Charlestown</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>12</edomv>
+						<edomvd>Foster</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>04</edomv>
+						<edomvd>Central Falls</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>31</edomv>
+						<edomvd>Smithfield</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>32</edomv>
+						<edomvd>South Kingstown</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>09</edomv>
+						<edomvd>East Greenwich</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>25</edomv>
+						<edomvd>North Smithfield</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>23</edomv>
+						<edomvd>North Kingstown</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>18</edomv>
+						<edomvd>Little Compton</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>17</edomv>
+						<edomvd>Lincoln</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>03</edomv>
+						<edomvd>Burrillville</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>19</edomv>
+						<edomvd>Middletown</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>16</edomv>
+						<edomvd>Johnston</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>22</edomv>
+						<edomvd>New Shoreham</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>21</edomv>
+						<edomvd>Newport</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>27</edomv>
+						<edomvd>Portsmouth</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>33</edomv>
+						<edomvd>Tiverton</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>06</edomv>
+						<edomvd>Coventry</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>20</edomv>
+						<edomvd>Narragansett</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>29</edomv>
+						<edomvd>Richmond</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>30</edomv>
+						<edomvd>Scituate</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>07</edomv>
+						<edomvd>Cranston</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>39</edomv>
+						<edomvd>Woonsocket</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>34</edomv>
+						<edomvd>Warren</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>14</edomv>
+						<edomvd>Hopkinton</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>38</edomv>
+						<edomvd>West Warwick</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>37</edomv>
+						<edomvd>West Greenwich</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>11</edomv>
+						<edomvd>Exeter</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>01</edomv>
+						<edomvd>Barrington</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>28</edomv>
+						<edomvd>Providence</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>36</edomv>
+						<edomvd>Westerly</edomvd>
+					</edom>
+				</attrdomv>
+<attrdomv>
+					<edom>
+						<edomv>10</edomv>
+						<edomvd>East Providence</edomvd>
+					</edom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape_Length</attrlabl>
+<attrdef>Length of feature in internal units.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>Shape_Area</attrlabl>
+<attrdef>Area of feature in internal units squared.</attrdef>
+<attrdefs>Esri</attrdefs>
+<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+</cntorgp>
+<cntpos>RIGIS Data Manager</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+</cntaddr>
+<cntemail>rigis@uri.edu</cntemail>
+</cntinfo>
+</distrib>
+<distliab>This dataset is provided as is. The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>Esri shapefile</formname>
+<filedec>ZIP</filedec>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://www.rigis.org</networkr>
+</networka>
+</computer>
+</onlinopt>
+</digtopt>
+</digform>
+<fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+</stdorder>
+</distinfo>
+<metainfo>
+<metd>20180116</metd>
+<metrd>20180207</metrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>University of Rhode Island Environmental Data Center</cntorg>
+<cntper>Greg Bonynge</cntper>
+</cntorgp>
+<cntpos>Geospatial Extension Specialist</cntpos>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>1 Greenhouse Road</address>
+<city>Kingston</city>
+<state>RI</state>
+<postal>02881</postal>
+<country>US</country>
+</cntaddr>
+<cntvoice>401-874-2180</cntvoice>
+<cntfax>401-874-4561</cntfax>
+<cntemail>greg@edc.uri.edu</cntemail>
+<cntinst>email preferred</cntinst>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
